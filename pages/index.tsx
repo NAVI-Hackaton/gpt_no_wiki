@@ -202,10 +202,10 @@ const Home: NextPage = () => {
         </a>
 
         <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
-          Planeación de Clase
+          Generación Articulo de Invesstigación
         </h1>
         <p className="text-slate-500 mt-5">
-          47,118 clases generadas con ai.
+          4,118 articulos generados con ai.
         </p>
         <div className="max-w-xl w-full">
           <div className="flex mt-10 items-center space-x-3">
@@ -218,7 +218,7 @@ const Home: NextPage = () => {
             />
 
             <p className="text-left font-medium">
-              Escribe el tema para la clase{" "}
+              Escribe el tema para el articulo{" "}
               <span className="text-slate-500">(puede ser el que sea)</span>
             </p>
           </div>
